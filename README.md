@@ -29,6 +29,17 @@ cd playwright-saucedemo-demo
 npm install
 ```
 
+```bash
+# Initialize a new Node.js project (creates package.json)
+npm init -y
+
+# Install Playwright as a development dependency
+npm install --save-dev @playwright/test
+
+# Install the Playwright browsers (Chromium, Firefox, WebKit)
+npx playwright install
+```
+
 This will install Playwright v1.56.1 and all required dependencies.
 
 ## Project Structure
