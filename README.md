@@ -170,9 +170,6 @@ To extend this project:
 3. Update `playwright.config.js` for additional browser configurations
 4. Run tests locally before committing changes
 
-## License
-
-ISC
 
 ## Resources
 
